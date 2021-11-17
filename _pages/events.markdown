@@ -8,7 +8,7 @@ toc_sticky: true
 title: "Events"
 ---
 
-# AI Village @ DEF CON 28, Safe Mode
+## AI Village @ DEF CON 28, Safe Mode
 *Fri, Aug 7, 2020 9:00 AM PST to Sun, Aug 9, 2020 4:00 PM PST*
 
 <table>
@@ -174,7 +174,7 @@ title: "Events"
 </table>
 
 
-# AI Village @ DEF CON 27
+## AI Village @ DEF CON 27
 *August 1, 2019*
 <table>
 <tbody><tr> <td> <bold>Day</bold> </td><td> Start Time </td><td> Length (Minutes) </td><td> Primary Speaker </td><td> Talk Title </td></tr>
@@ -232,12 +232,12 @@ title: "Events"
 </tbody></table>
 
 
-# AI Village @ DEF CON 26
+## AI Village @ DEF CON 26
 *August 1, 2018*
 
 [For more information on this event, click here.]({{ '/events/DEFCON-China-1/'}})
 
-# AI Village @ DEF CON China 1
+## AI Village @ DEF CON China 1
 *May 1, 2018*
 
 [For more information on this event, click here.]({{ '/events/DEFCON-26/'}})
