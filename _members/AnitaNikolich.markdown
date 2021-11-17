@@ -2,7 +2,7 @@
 title: "Anita Nikolich"
 excerpt: "Change this in the excerpt front matter"
 layout: single
-permalink: /members/Cattell/
+permalink: /members/Nikolich/
 author: Anita Nikolich
 author_profile: true
 ---
