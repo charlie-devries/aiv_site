@@ -1,5 +1,6 @@
 ---
 title: "John Doe"
+excerpt: "Change this in the excerpt front matter"
 layout: single
 permalink: /members/Doe/
 author: John Doe
