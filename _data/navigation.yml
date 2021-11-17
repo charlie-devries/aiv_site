@@ -1,0 +1,9 @@
+main:
+  - title: "Our Events"
+    url: /events/
+  - title: "Articles"
+    url: /articles/
+  - title: "Our Team"
+    url: /members/
+  - title: "Def Con"
+    url: https://defcon.org/
