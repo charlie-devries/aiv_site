@@ -7,3 +7,5 @@ main:
     url: /members/
   - title: "Def Con"
     url: https://defcon.org/
+  - title: "About"
+    url: /home/
