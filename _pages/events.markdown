@@ -5,6 +5,7 @@ toc: true
 toc_label: "Events"
 toc_icon: "calendar"
 toc_sticky: true
+title: "Events"
 ---
 
 # AI Village @ DEF CON 28, Safe Mode
