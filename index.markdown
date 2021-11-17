@@ -6,7 +6,6 @@ layout: splash
 title: Home
 header:
   image: /assets/images/tablecloth.jpg
-permalink: /home/
 feature_row:
   - image_path: /assets/images/tablecloth.jpg
     alt: "placeholder image 1"
