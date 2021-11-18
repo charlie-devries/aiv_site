@@ -29,7 +29,7 @@ So, an 8 has a local set of other, valid 8s, near it that looks like a 7 to 10 d
 
 ### Toroidal Example 
 
-<iframe src="public/material/dimensionality_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
+<iframe src="{{ site.baseurl }}/public/material/dimensionality_pointcloud.html" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="500" scrolling="no"></iframe>
 
 In the above example we've sampled our data from a torus with relatively little noise. This is a 2 dimensional surface embedded in 3 dimensions. So, locally we have 2 degrees of freedom to manipulate, giving us a 2 dimensional disk around our chosen point. If you hide the main torus you can see the little area around the disk approximates a plane, it's pretty flat. What we can do to figure out the disk associated to the point is a local principal component analysis. That is we do a PCA on the nearest few hundred points. This will tell us which directions the local neighborhood varies most in.
 
