@@ -289,6 +289,6 @@ defaults:
       related: true
 
 collections:
-  members:
-    permalink: /members/
+  officers:
+    permalink: /officers/
     output: true

@@ -1,8 +1,8 @@
 ---
 title: Our Team
 layout: collection
-permalink: /members/
-collection: members
+permalink: /officers/
+collection: officers
 entries_layout: grid
 
 classes: wide
