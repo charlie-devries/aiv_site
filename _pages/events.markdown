@@ -239,6 +239,4 @@ title: "Events"
 
 ## AI Village @ DEF CON China 1
 *May 1, 2018*
-[Test link]({{ site.baseurl }}{% link /events/DEFCON-China-1/ %})
-
 [For more information on this event, click here.]({{ '/events/DEFCON-26/'}})
