@@ -1,7 +1,7 @@
 main:
   - title: "Our Events"
     url: /events/
-  - title: "Our Events2"
+  - title: "Hacker Journal Club"
     url: /hacker-journal-club/
   - title: "Articles"
     url: /articles/
