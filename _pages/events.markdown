@@ -238,9 +238,9 @@ title: "Events"
 [Link1](schedules/2018-05-01-DECON-China-1.markdown)
 [Link2](/schedules/2018-05-01-DECON-China-1.markdown/)
 [Link3](/events/DEFCON-China-1)
-[Link4]("/events/DEFCON-China-1")
-[Link5]("events/DEFCON-China-1")
-[Link6]("/events/DEFCON-China-1/")
+[Link4](/events/DEFCON-China-1)
+[Link5](events/DEFCON-China-1)
+[Link6](/events/DEFCON-China-1/)
 
 
 
