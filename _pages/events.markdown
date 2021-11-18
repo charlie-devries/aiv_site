@@ -234,8 +234,8 @@ title: "Events"
 
 ## AI Village @ DEF CON 26
 *August 1, 2018* 
-{{ site.baseurl }}{% link schedules/2018-05-01-DECON-China-1.markdown %}
-[For more information on this event, click here.]({{ '/events/DEFCON-China-1/'}})
+
+[For more information on this event, click here.]({{ site.baseurl }}{% link schedules/2018-05-01-DECON-China-1.markdown %})
 
 ## AI Village @ DEF CON China 1
 *May 1, 2018*
