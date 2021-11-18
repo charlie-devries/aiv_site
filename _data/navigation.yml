@@ -7,6 +7,10 @@ main:
     url: /articles/
   - title: "Officers"
     url: /officers/
+  - title: "Conduct"
+    url: /conduct/
+  - title: "Discord"
+    url: /discord/
   - title: "DEF CON"
     url: https://defcon.org/
   
