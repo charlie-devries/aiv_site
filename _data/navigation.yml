@@ -1,10 +1,12 @@
 main:
   - title: "Our Events"
     url: /events/
+  - title: "Hacker Journal Club"
+    url: "/hacker-journal-club/"
   - title: "Articles"
     url: /articles/
-  - title: "Our Team"
-    url: /members/
-  - title: "Def Con"
+  - title: "Officers"
+    url: /officers/
+  - title: "DEF CON"
     url: https://defcon.org/
   
