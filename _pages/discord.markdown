@@ -3,7 +3,7 @@ layout: "single"
 permalink: /discord/
 title: "Discord Guide"
 ---
-If you want to join our discord just follow this link. First thing you have to do is introduce yourself in the #start-here, then someone will give you the villager role.
+If you want to join our discord just follow [this link](https://discord.com/invite/GX5fhfT). First thing you have to do is introduce yourself in the #start-here, then someone will give you the villager role.
 
 ## Basic Rules
 Please read the code of conduct. We also have the following general rules:
