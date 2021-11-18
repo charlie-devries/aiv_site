@@ -1,6 +1,6 @@
 ---
 layout: "single"
-permalink: /events2/
+permalink: /hacker-journal-club/
 toc: true
 toc_label: "Events"
 toc_icon: "calendar"
