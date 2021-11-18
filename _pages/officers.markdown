@@ -1,5 +1,5 @@
 ---
-title: Our Team
+title: Officers
 layout: collection
 permalink: /officers/
 collection: officers
