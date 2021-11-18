@@ -1,8 +1,8 @@
 main:
   - title: "Our Events"
     url: /events/
-  - title: "Hacker Journal Clubs"
-    url: "/test/"
+  - title: "Our Events2"
+    url: /events2/
   - title: "Articles"
     url: /articles/
   - title: "Officers"
