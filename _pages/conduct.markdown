@@ -5,12 +5,12 @@ title: "Conduct"
 ---
 All delegates, speakers, sponsors and volunteers at AI Village are  required to agree with the following code of conduct. Organizers will  enforce this code throughout the event.
 
-THE SHORT VERSION
+## THE SHORT VERSION
 AI Village is dedicated to providing a harassment-free experience for  everyone, regardless of gender, gender identity and expression, age,  sexual orientation, disability, physical appearance, body size, race,  ethnicity, religion (or lack thereof), or technology choices. We do not  tolerate harassment of participants in any form. Sexual language and  imagery is not appropriate for any AI Village venue, including talks,  workshops, parties, Twitter and other online media.
 
 Participants violating these rules may be sanctioned or expelled from  the village at the discretion of the village organizers. Any violation  of the DEF CON code of conduct  will also result in immediate expulsion from the village and the  conference at the discretion of the village and conference organizers.
 
-THE FULL VERSION
+## THE FULL VERSION
 Harassment includes offensive verbal comments related to gender,  gender identity and expression, age, sexual orientation, disability,  physical appearance, body size, race, ethnicity, religion, technology  choices, sexual images in public spaces, deliberate intimidation,  stalking, following, harassing photography or recording, sustained  disruption of talks or other events, inappropriate physical contact, and  unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
