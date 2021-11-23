@@ -8,8 +8,8 @@ header:
   image: /assets/images/tablecloth.jpg
 feature_row:
   - image_path: /assets/images/tablecloth.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "AI Village Banner"
+    title: "AI Village Banner"
 ---
 
 # About Us
@@ -17,6 +17,6 @@ feature_row:
 The AI Village is a community of hackers and data scientists working  to educate the world on the use and abuse of artificial intelligence in  security and privacy.
 <br>
 We are not sponsored by any one company, and it is our mission to maintain it as such as the community grows.
-We have a presence at DEF CON, the world’s longest running and largest underground hacking conference.
+We have a presence at [DEF CON](https://defcon.org/), the world’s longest running and largest underground hacking conference.
 
 <a href="https://discord.com/invite/GX5fhfT">Join our public discord here<a>
