@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Discord"
       icon: "fab fa-discord"
-      url: "https://discord.com/invite/GX5fhfT"
+      url: "/discord/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
