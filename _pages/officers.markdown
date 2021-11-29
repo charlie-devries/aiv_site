@@ -1,6 +1,6 @@
 ---
 title: Leadership Team
-layout: posts
+layout: single
 permalink: /leadership_team/
 collection: officers
 entries_layout: grid
