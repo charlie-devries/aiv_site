@@ -1,7 +1,7 @@
 ---
 title: Leadership Team
 layout: collection
-permalink: /leadership-team/
+permalink: /leadership_team/
 collection: officers
 entries_layout: grid
 
