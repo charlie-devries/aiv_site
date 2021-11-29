@@ -10,5 +10,7 @@ author: Billy Rick
 
 ---
 ## Board of Directors
+Board of Directors here, image on the left, content on the right
 
 ## Officers
+Officers here, image on the left, content on the right
