@@ -23,9 +23,9 @@ Board of Directors here, image on the left, content on the right
               <h3 style="margin:10px">John Doe</h3>
               </td>
               <td>
-              <strong>Affiliation:</strong>  Amazing University
+              <strong>Affiliation:</strong>  X University
                 <br>
-                <strong>Expertise:</strong>  Everything
+                <strong>Expertise:</strong>  Programming
                 <br>
                 <strong>Education:</strong>  Computer Science
                 <br>
@@ -37,20 +37,42 @@ Board of Directors here, image on the left, content on the right
               </td>
           </tr>
           <tr>
-              <td>Michael Phelps</td>
-              <td>Superman</td>
+              <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+              <br>
+              <h3 style="margin:10px">John Doe</h3>
+              </td>
+              <td>
+              <strong>Affiliation:</strong>  X University
+                <br>
+                <strong>Expertise:</strong>  Programming
+                <br>
+                <strong>Education:</strong>  Computer Science
+                <br>
+                <strong>Contact:</strong>  j.doe@gmail.com
+                <br>
+
+                <strong>Bio:</strong> lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum et nunc quis finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla gravida ultrices justo nec hendrerit.
+              
+              </td>
           </tr>
           <tr>
-              <td>Danica Patrick</td>
-              <td></td>
-          </tr>
-          <tr>
-              <td>Serena Williams</td>
-              <td>Meka</td>
-          </tr>
-          <tr>
-              <td>Michael Jordan</td>
-              <td>MJ<br>Air Jordan</td>
+              <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
+              <br>
+              <h3 style="margin:10px">John Doe</h3>
+              </td>
+              <td>
+              <strong>Affiliation:</strong>  X University
+                <br>
+                <strong>Expertise:</strong>  Programming
+                <br>
+                <strong>Education:</strong>  Computer Science
+                <br>
+                <strong>Contact:</strong>  j.doe@gmail.com
+                <br>
+
+                <strong>Bio:</strong> lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum et nunc quis finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla gravida ultrices justo nec hendrerit.
+              
+              </td>
           </tr>
   </table>
 
