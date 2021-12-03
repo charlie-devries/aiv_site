@@ -7,6 +7,9 @@ entries_layout: grid
 
 
 ---
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
 ## Board of Directors
 Board of Directors here, image on the left, content on the right
 <table class="table table-bordered table-striped table-hover table-condensed">
