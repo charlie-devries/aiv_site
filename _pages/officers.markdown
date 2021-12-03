@@ -18,7 +18,7 @@ Board of Directors here, image on the left, content on the right
                     
       
           <tr>
-              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%">
+              <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%">
               <br>
               <h3>John Doe</h3>
               </td>
