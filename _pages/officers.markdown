@@ -24,7 +24,7 @@ Board of Directors here, image on the left, content on the right
       </thead>
       <tbody>
           <tr>
-              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%></td>
+              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%"></td>
               <td>
               <strong>Affiliation:</strong>  Amazing University
                 <br>
