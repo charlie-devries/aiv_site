@@ -18,9 +18,9 @@ Board of Directors here, image on the left, content on the right
                     
       
           <tr>
-              <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%; margin:10px">
+              <td class="text-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%;">
               <br>
-              <h3>John Doe</h3>
+              <h3 style="margin:10px">John Doe</h3>
               </td>
               <td>
               <strong>Affiliation:</strong>  Amazing University
