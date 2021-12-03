@@ -20,7 +20,19 @@ Board of Directors here, image on the left, content on the right
       <tbody>
           <tr>
               <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" class="rounded-circle"></td>
-              <td>Omaha</td>
+              <td>
+              <strong>Affiliation:</strong>  Amazing University
+                <br>
+                <strong>Expertise:</strong>  Everything
+                <br>
+                <strong>Education:</strong>  Computer Science
+                <br>
+                <strong>Contact:</strong>  j.doe@gmail.com
+                <br>
+
+                <strong>Bio:</strong> lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum et nunc quis finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla gravida ultrices justo nec hendrerit.
+              
+              </td>
           </tr>
           <tr>
               <td>Michael Phelps</td>
