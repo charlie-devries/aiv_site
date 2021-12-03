@@ -1,11 +1,7 @@
 ---
 title: Leadership Team
-layout: single
+layout: home
 permalink: /leadership_team/
-collection: officers
-entries_layout: grid
-
-
 ---
 
 ## Board of Directors
