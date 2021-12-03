@@ -14,7 +14,7 @@ entries_layout: grid
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="script.js"></script>
 Board of Directors here, image on the left, content on the right
-<table class="table table-bordered table-striped table-hover table-condensed">
+<table class="table">
                     
       <thead>
           <tr>
@@ -24,7 +24,7 @@ Board of Directors here, image on the left, content on the right
       </thead>
       <tbody>
           <tr>
-              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" class="rounded-circle"></td>
+              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%></td>
               <td>
               <strong>Affiliation:</strong>  Amazing University
                 <br>
