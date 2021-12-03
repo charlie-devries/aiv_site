@@ -19,7 +19,7 @@ Board of Directors here, image on the left, content on the right
       </thead>
       <tbody>
           <tr>
-              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg"></td>
+              <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" class="rounded-circle"></td>
               <td>Omaha</td>
           </tr>
           <tr>
