@@ -16,13 +16,7 @@ entries_layout: grid
 Board of Directors here, image on the left, content on the right
 <table class="table">
                     
-      <thead>
-          <tr>
-              <th class="col-xs-6">Member Name</th>
-              <th class="col-xs-6">Nickname</th>
-          </tr>
-      </thead>
-      <tbody>
+      
           <tr>
               <td><img src="{{ site.url }}{{ site.baseurl }}/assets/images/default.jpeg" style="border-radius:50%"></td>
               <td>
@@ -55,12 +49,6 @@ Board of Directors here, image on the left, content on the right
               <td>Michael Jordan</td>
               <td>MJ<br>Air Jordan</td>
           </tr>
-      </tbody>
-      <tfoot>
-          <tr>
-              <td colspan="2">Includes all past and present members</td>
-          </tr>
-      </tfoot>
   </table>
 
 ## Officers
